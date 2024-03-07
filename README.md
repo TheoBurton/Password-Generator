@@ -30,7 +30,7 @@ The character types are as follows:
 * Numbers
 * Speacial characters
 
-![Screenshot of the Password generator](../Password-Generator/assets/Screenshot.png)
+![Screenshot of the Password generator](./assets/Screenshot.png)
 
 
 
